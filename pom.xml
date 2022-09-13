@@ -3,16 +3,16 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.ieooc.cloud</groupId>
-    <artifactId>simplify-cloud-dependencies-parent</artifactId>
+    <groupId>com.avuecloud.cloud</groupId>
+    <artifactId>avue-cloud-dependencies-parent</artifactId>
     <version>1.0.0.RELEASE</version>
     <packaging>pom</packaging>
-    <name>simplify-cloud-dependencies-parent</name>
-    <description>Simplify Cloud Build Dependencies</description>
-    <url>https://www.ieooc.com/</url>
+    <name>avue-cloud-dependencies-parent</name>
+    <description>Avue Cloud Build Dependencies</description>
+    <url>https://www.avuecloud.com/</url>
     <organization>
         <name>Pivotal Software, Inc.</name>
-        <url>https://www.ieooc.com</url>
+        <url>https://www.avuecloud.com</url>
     </organization>
     <licenses>
         <license>
@@ -41,16 +41,16 @@
             <name>heyuqiang</name>
             <email>785056500@qq.com</email>
             <organization>Pivotal Software, Inc.</organization>
-            <organizationUrl>https://www.ieooc.com</organizationUrl>
+            <organizationUrl>https://www.avuecloud.com</organizationUrl>
             <roles>
                 <role>Project lead</role>
             </roles>
         </developer>
     </developers>
     <scm>
-        <connection>scm:git:git://github.com/simplify-cloud/simplify-cloud-dependencies-parent.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com/simplify-cloud/simplify-cloud-dependencies-parent.git</developerConnection>
-        <url>https://github.com/simplify-cloud/simplify-cloud-dependencies-parent</url>
+        <connection>scm:git:git://github.com/avue-cloud/avue-cloud-dependencies-parent.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/avue-cloud/avue-cloud-dependencies-parent.git</developerConnection>
+        <url>https://github.com/avue-cloud/avue-cloud-dependencies-parent</url>
     </scm>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
